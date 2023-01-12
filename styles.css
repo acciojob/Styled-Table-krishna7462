@@ -1,1 +1,18 @@
 /* your code */
+th,td{
+	border-collapse:collapse;
+	width: 600px;
+	background-color:skyblue;
+}
+.topleft{
+   border-top-left-radius:15px ;
+}
+.topright{
+border-top-right-radius:15px ;
+}
+.bottomleft{
+	border-bottom-left-radius:15px ;
+}
+.bottomright{
+	border-bottom-right-radius:15px;
+}
